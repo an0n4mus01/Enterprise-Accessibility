@@ -1,2 +1,2 @@
-# EnterpriseAccessible
-Enterprise Accessibility Conformance Ontology
+# Enterprise Accessible
+Enterprise Accessibility Conformance Ontology was developed from an analysis of question data that was collected from users and subject matter experts throughout the enterprise. It includes the WCAG 2.0 and WAI-ARIA classes from the [Accessibility Ontology Version 5.1](ftp://ftp.iti.gr/pub/incoming/AccessibleOntologyVersion5.1.zip) created by the [Accessible EU Project](http://www.accessible-eu.org/index.php/ontology.html). 
