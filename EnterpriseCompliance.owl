@@ -15,10 +15,10 @@
     <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
     <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
     <Declaration>
-        <NamedIndividual IRI="#Test_H34T2"/>
+        <NamedIndividual IRI="#noUI"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#noUI"/>
+        <NamedIndividual IRI="#Test_H34T2"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Technique_SCR29"/>
@@ -54,10 +54,10 @@
         <NamedIndividual IRI="#Native"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_ARIA01"/>
+        <NamedIndividual IRI="#A243_checkTextDirectionChangesAndAdjacentPunctuationCharacters"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#A243_checkTextDirectionChangesAndAdjacentPunctuationCharacters"/>
+        <NamedIndividual IRI="#Technique_ARIA01"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_G173T1"/>
@@ -141,10 +141,10 @@
         <NamedIndividual IRI="#Test_C06T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G185T1"/>
+        <NamedIndividual IRI="#Unfinalize"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Unfinalize"/>
+        <NamedIndividual IRI="#Test_G185T1"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Checkpoint_2.4.5"/>
@@ -285,10 +285,10 @@
         <NamedIndividual IRI="#TabList"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_H71T2"/>
+        <NamedIndividual IRI="#A159_checkGifImagesFlashingBlinking"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#A159_checkGifImagesFlashingBlinking"/>
+        <NamedIndividual IRI="#Test_H71T2"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Karma"/>
@@ -297,19 +297,19 @@
         <ObjectProperty IRI="#hasSupportedState"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Browser"/>
+        <Class IRI="#WCAGSuccessCriterion"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#WCAGSuccessCriterion"/>
+        <Class IRI="#Browser"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_G010T5"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_G127"/>
+        <NamedIndividual IRI="#Test_H71T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_H71T1"/>
+        <NamedIndividual IRI="#Technique_G127"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#A132_checkTabindexAttr"/>
@@ -366,10 +366,10 @@
         <AnnotationProperty IRI="http://www.AccessibleOntology.com/GenericOntology.owl#isAutomatic"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_SM13T1"/>
+        <Class IRI="#RowGroup"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#RowGroup"/>
+        <NamedIndividual IRI="#Test_SM13T1"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_G153T1"/>
@@ -384,10 +384,10 @@
         <NamedIndividual IRI="#Test_H54T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#A252_checkInputElementsWithoutLabelButWithTitleAttr"/>
+        <NamedIndividual IRI="#Technique_SCR22"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_SCR22"/>
+        <NamedIndividual IRI="#A252_checkInputElementsWithoutLabelButWithTitleAttr"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_SM01T3"/>
@@ -396,10 +396,10 @@
         <NamedIndividual IRI="#Technique_G125"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_F07"/>
+        <NamedIndividual IRI="#SuccessCriterion_2.1.1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#SuccessCriterion_2.1.1"/>
+        <NamedIndividual IRI="#Technique_F07"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_G153T2"/>
@@ -429,10 +429,10 @@
         <Class IRI="#TreeGrid"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_F01T2"/>
+        <NamedIndividual IRI="#Technique_G121"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_G121"/>
+        <NamedIndividual IRI="#Test_F01T2"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Rules"/>
@@ -474,10 +474,10 @@
         <NamedIndividual IRI="#Test_SM01T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_H02T2"/>
+        <NamedIndividual IRI="#A289_checkIdForMatchingOfTextLabelsAndAssociatedFormControls"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#A289_checkIdForMatchingOfTextLabelsAndAssociatedFormControls"/>
+        <NamedIndividual IRI="#Test_H02T2"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Technique_G122"/>
@@ -495,10 +495,10 @@
         <NamedIndividual IRI="#Technique_H27"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#SuccessCriterion_2.1.3"/>
+        <NamedIndividual IRI="#Test_H02T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_H02T1"/>
+        <NamedIndividual IRI="#SuccessCriterion_2.1.3"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Node.js"/>
@@ -510,16 +510,16 @@
         <NamedIndividual IRI="#Display"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_F70T2"/>
-    </Declaration>
-    <Declaration>
         <NamedIndividual IRI="#Test_T01T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_G167"/>
+        <NamedIndividual IRI="#Test_F70T2"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_C23T1"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Technique_G167"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#A220_checkContrastRatioThreeToOne"/>
@@ -609,9 +609,6 @@
         <NamedIndividual IRI="#Test_F69T1"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Training"/>
-    </Declaration>
-    <Declaration>
         <NamedIndividual IRI="#Test_G141T1"/>
     </Declaration>
     <Declaration>
@@ -636,10 +633,10 @@
         <NamedIndividual IRI="#A157_checkBlinkElements"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_H34T1"/>
+        <NamedIndividual IRI="#SuccessCriterion_4.1.1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#SuccessCriterion_4.1.1"/>
+        <NamedIndividual IRI="#Test_H34T1"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Heading"/>
@@ -657,10 +654,10 @@
         <NamedIndividual IRI="#Test_F69T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_F70T1"/>
+        <NamedIndividual IRI="#Test_T01T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_T01T1"/>
+        <NamedIndividual IRI="#Test_F70T1"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#A004_checkForElementsWithInvalidRoleAttribute"/>
@@ -732,10 +729,10 @@
         <Class IRI="#Section"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#A222_checkWidthCssPropertyPercentageValue"/>
+        <NamedIndividual IRI="#Test_G121T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G121T1"/>
+        <NamedIndividual IRI="#A222_checkWidthCssPropertyPercentageValue"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Track"/>
@@ -747,10 +744,10 @@
         <NamedIndividual IRI="#A205_checkAutoRedirection"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G017T2"/>
+        <NamedIndividual IRI="#Accommodation"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Accommodation"/>
+        <NamedIndividual IRI="#Test_G017T2"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_F09T4"/>
@@ -789,10 +786,10 @@
         <NamedIndividual IRI="#Test_G189T3"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#TextBox"/>
+        <NamedIndividual IRI="#Test_F10T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_F10T2"/>
+        <NamedIndividual IRI="#TextBox"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Consideration"/>
@@ -840,10 +837,10 @@
         <Class IRI="#Complementary"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Inaccurate"/>
+        <NamedIndividual IRI="#Technique_G076"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_G076"/>
+        <NamedIndividual IRI="#Inaccurate"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_G108T3"/>
@@ -903,19 +900,19 @@
         <NamedIndividual IRI="#Document"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Math"/>
+        <NamedIndividual IRI="#Test_C23T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_C23T2"/>
+        <Class IRI="#Math"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_G074T3"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Guideline_2.2"/>
+        <NamedIndividual IRI="#Menu"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Menu"/>
+        <NamedIndividual IRI="#Guideline_2.2"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Technique_F49"/>
@@ -936,13 +933,13 @@
         <NamedIndividual IRI="#Checkpoint_502.3.14"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Test_H87T3"/>
+    </Declaration>
+    <Declaration>
         <ObjectProperty IRI="#hasSupportedProperty"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Checkpoint_503.4.1"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Test_H87T3"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Technique_H67"/>
@@ -1044,10 +1041,10 @@
         <NamedIndividual IRI="#Technique_H69"/>
     </Declaration>
     <Declaration>
-        <DataProperty IRI="#isStandard"/>
+        <NamedIndividual IRI="#Checkpoint_503.4.2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Checkpoint_503.4.2"/>
+        <DataProperty IRI="#isStandard"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_G005T1"/>
@@ -1065,10 +1062,10 @@
         <NamedIndividual IRI="#Time"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Badge"/>
+        <NamedIndividual IRI="#Test_SCR31T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_SCR31T2"/>
+        <NamedIndividual IRI="#Badge"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_F66T2"/>
@@ -1089,13 +1086,13 @@
         <NamedIndividual IRI="#Test_G017T1"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Linux"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Technique_F03"/>
     </Declaration>
     <Declaration>
         <AnnotationProperty IRI="http://www.AccessibleOntology.com/GenericOntology.owl#hasHint"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Linux"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Widget"/>
@@ -1107,10 +1104,10 @@
         <NamedIndividual IRI="#Test_H87T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#A168_checkMarqueeElements"/>
+        <NamedIndividual IRI="#LowVision"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#LowVision"/>
+        <NamedIndividual IRI="#A168_checkMarqueeElements"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Checkpoint_3.2.4"/>
@@ -1122,19 +1119,19 @@
         <NamedIndividual IRI="#Test_G177T4"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_F04"/>
+        <Class IRI="#ScreenMagnifier"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#ScreenMagnifier"/>
+        <NamedIndividual IRI="#Technique_F04"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_G189T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#A057_checkH2Elements"/>
+        <Class IRI="#ARIATestCases"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#ARIATestCases"/>
+        <NamedIndividual IRI="#A057_checkH2Elements"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_G062T1"/>
@@ -1152,10 +1149,10 @@
         <NamedIndividual IRI="#Technique_G073"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_H87T2"/>
+        <NamedIndividual IRI="#Technique_SCR32"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_SCR32"/>
+        <NamedIndividual IRI="#Test_H87T2"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_F22T1"/>
@@ -1182,13 +1179,13 @@
         <NamedIndividual IRI="#SuccessCriterion_2.4.8"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Img"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#SuccessCriterion_1.3.2"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_H83T3"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#Img"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#A197_checkHtmlValidation"/>
@@ -1248,25 +1245,25 @@
         <NamedIndividual IRI="#Test_F42T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#SuccessCriterion_2.4.9"/>
-    </Declaration>
-    <Declaration>
         <NamedIndividual IRI="#Test_G194T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#SuccessCriterion_1.3.1"/>
+        <NamedIndividual IRI="#SuccessCriterion_2.4.9"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_G170T2"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#SuccessCriterion_1.3.1"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Technique_G071"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#ListBox"/>
+        <NamedIndividual IRI="#Test_F66T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_F66T1"/>
+        <NamedIndividual IRI="#ListBox"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Technique_F86"/>
@@ -1332,28 +1329,28 @@
         <NamedIndividual IRI="#Test_H83T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_F17T4"/>
+        <NamedIndividual IRI="#ARIA_Checkpoint_1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#ARIA_Checkpoint_1"/>
+        <NamedIndividual IRI="#Test_F17T4"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Tic_Disorders"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Technique_F88"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#ACR"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#OnPremise"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#ToolTip"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_G010T1"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Technique_F88"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#OnPremise"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Technique_F40"/>
@@ -1383,10 +1380,10 @@
         <NamedIndividual IRI="#Test_G086T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G145T3"/>
+        <Class IRI="#VoiceRecognition"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#VoiceRecognition"/>
+        <NamedIndividual IRI="#Test_G145T3"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Technique_F89"/>
@@ -1419,10 +1416,10 @@
         <NamedIndividual IRI="#Test_G145T4"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#A228_checkIfCheckboxesAndRadiobuttonsAreFollowedByLabel"/>
+        <NamedIndividual IRI="#A060_checkH5Elements"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#A060_checkH5Elements"/>
+        <NamedIndividual IRI="#A228_checkIfCheckboxesAndRadiobuttonsAreFollowedByLabel"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_G125T1"/>
@@ -1527,10 +1524,10 @@
         <NamedIndividual IRI="#Test_G169T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_C15T6"/>
+        <NamedIndividual IRI="#SuccessCriterion_1.3.3"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#SuccessCriterion_1.3.3"/>
+        <NamedIndividual IRI="#Test_C15T6"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Technique_F44"/>
@@ -1737,10 +1734,10 @@
         <NamedIndividual IRI="#Test_G011T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G172T1"/>
+        <NamedIndividual IRI="#ARIA_Checkpoint_2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#ARIA_Checkpoint_2"/>
+        <NamedIndividual IRI="#Test_G172T1"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_F38T1"/>
@@ -1791,10 +1788,10 @@
         <NamedIndividual IRI="#Technique_G202"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#A224_checkFormsSubmitButton"/>
+        <NamedIndividual IRI="#Test_G160T3"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G160T3"/>
+        <NamedIndividual IRI="#A224_checkFormsSubmitButton"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Presentation"/>
@@ -1851,22 +1848,22 @@
         <NamedIndividual IRI="#Test_G184T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Draft"/>
-    </Declaration>
-    <Declaration>
         <NamedIndividual IRI="#A209_checkScriptElements"/>
-    </Declaration>
-    <Declaration>
-        <ObjectProperty IRI="#hasRequiredProperty"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_G079T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#SinglePage"/>
+        <ObjectProperty IRI="#hasRequiredProperty"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Draft"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#BrainInjury"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#SinglePage"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Technique_F60"/>
@@ -1929,10 +1926,10 @@
         <NamedIndividual IRI="#Test_SCR34T4"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#A219_checkContrastRatioFourAndHalfToOne"/>
+        <NamedIndividual IRI="#DigitalCommerce"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#DigitalCommerce"/>
+        <NamedIndividual IRI="#A219_checkContrastRatioFourAndHalfToOne"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_G176T1"/>
@@ -1959,10 +1956,10 @@
         <NamedIndividual IRI="#Test_G164T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_H89T2"/>
+        <NamedIndividual IRI="#Test_H25T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_H25T2"/>
+        <NamedIndividual IRI="#Test_H89T2"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#A003_problemsInARIAProperties"/>
@@ -1983,10 +1980,10 @@
         <NamedIndividual IRI="#Offering"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#TouretteSyndrome"/>
+        <NamedIndividual IRI="#Test_SVR04T3"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_SVR04T3"/>
+        <NamedIndividual IRI="#TouretteSyndrome"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_G107T1"/>
@@ -2013,13 +2010,13 @@
         <NamedIndividual IRI="#Test_H77T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_SM12T3"/>
-    </Declaration>
-    <Declaration>
         <NamedIndividual IRI="#Test_H90T1"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Vue"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Test_SM12T3"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_G139T5"/>
@@ -2106,10 +2103,10 @@
         <NamedIndividual IRI="#Technique_G159"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_H39"/>
+        <NamedIndividual IRI="#Automated"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Automated"/>
+        <NamedIndividual IRI="#Technique_H39"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_F26T2"/>
@@ -2262,19 +2259,19 @@
         <NamedIndividual IRI="#Technique_G153"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_SCR34T2"/>
+        <NamedIndividual IRI="#Test_H45T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_H45T1"/>
+        <NamedIndividual IRI="#Test_SCR34T2"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Phase"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G107T2"/>
+        <NamedIndividual IRI="#Technique_G069"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_G069"/>
+        <NamedIndividual IRI="#Test_G107T2"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Modification"/>
@@ -2286,10 +2283,10 @@
         <NamedIndividual IRI="#Test_G092T3"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_F14T1"/>
+        <NamedIndividual IRI="#Test_G152T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G152T2"/>
+        <NamedIndividual IRI="#Test_F14T1"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_H90T2"/>
@@ -2316,13 +2313,13 @@
         <NamedIndividual IRI="#Software"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_H45T3"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#Search"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Technique_G021"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Test_H45T3"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_H45T2"/>
@@ -2349,10 +2346,10 @@
         <NamedIndividual IRI="#Test_G152T3"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Requirements"/>
+        <NamedIndividual IRI="#Checkpoint_2.1.2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Checkpoint_2.1.2"/>
+        <Class IRI="#Requirements"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Window"/>
@@ -2385,10 +2382,10 @@
         <Class IRI="#Note"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Guideline_3.2"/>
+        <AnnotationProperty IRI="http://www.AccessibleOntology.com/GenericOntology.owl#Checkpoint_belongsTo_Guideline"/>
     </Declaration>
     <Declaration>
-        <AnnotationProperty IRI="http://www.AccessibleOntology.com/GenericOntology.owl#Checkpoint_belongsTo_Guideline"/>
+        <NamedIndividual IRI="#Guideline_3.2"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_F80T2"/>
@@ -2520,10 +2517,10 @@
         <NamedIndividual IRI="#Technique_C09"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#A105_checkAltTextOfImagesWithIsMapAttribute"/>
+        <NamedIndividual IRI="#Test_G099T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G099T2"/>
+        <NamedIndividual IRI="#A105_checkAltTextOfImagesWithIsMapAttribute"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_SCR22T1"/>
@@ -2538,25 +2535,25 @@
         <NamedIndividual IRI="#VPAT_Online"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Stack"/>
-    </Declaration>
-    <Declaration>
         <NamedIndividual IRI="#Test_G018T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#ARIA_Guideline_2"/>
+        <NamedIndividual IRI="#Stack"/>
     </Declaration>
     <Declaration>
         <AnnotationProperty IRI="#hasOS"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#ARIA_Guideline_2"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Technique_H78"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_F12"/>
+        <NamedIndividual IRI="#Technique_G150"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_G150"/>
+        <NamedIndividual IRI="#Technique_F12"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_H86T1"/>
@@ -2577,10 +2574,10 @@
         <NamedIndividual IRI="#Test_F80T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#RadioGroup"/>
+        <NamedIndividual IRI="#Test_F79T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_F79T2"/>
+        <NamedIndividual IRI="#RadioGroup"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#A296_checkElementsDoNotContainDublicateAttributes"/>
@@ -2610,10 +2607,10 @@
         <NamedIndividual IRI="#Test_F67T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G063T1"/>
+        <NamedIndividual IRI="#Potential_Violation"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Potential_Violation"/>
+        <NamedIndividual IRI="#Test_G063T1"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Edge"/>
@@ -2652,10 +2649,10 @@
         <NamedIndividual IRI="#Test_SCR30T4"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_F14"/>
+        <NamedIndividual IRI="#Technique_G196"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_G196"/>
+        <NamedIndividual IRI="#Technique_F14"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Technique_G063"/>
@@ -2685,10 +2682,10 @@
         <NamedIndividual IRI="#Technique_F15"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#ARIA_Grabbed"/>
+        <NamedIndividual IRI="#String"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#String"/>
+        <NamedIndividual IRI="#ARIA_Grabbed"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Guideline_503"/>
@@ -2727,10 +2724,10 @@
         <NamedIndividual IRI="#ARIA_Orientation"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#SuccessCriterion_3.3.6"/>
+        <NamedIndividual IRI="#Technique_F16"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_F16"/>
+        <NamedIndividual IRI="#SuccessCriterion_3.3.6"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Guideline_502"/>
@@ -2742,10 +2739,10 @@
         <NamedIndividual IRI="#Checkpoint_1.4.4"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Checkpoint_3.3.2"/>
+        <NamedIndividual IRI="#Technique_H34"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_H34"/>
+        <NamedIndividual IRI="#Checkpoint_3.3.2"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Technique_G194"/>
@@ -2826,10 +2823,10 @@
         <NamedIndividual IRI="#Structure"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Complementary"/>
+        <NamedIndividual IRI="#Test_H37T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_H37T2"/>
+        <NamedIndividual IRI="#Complementary"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Technique_F50"/>
@@ -2883,10 +2880,10 @@
         <NamedIndividual IRI="#Test_H30T4"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Separator"/>
+        <NamedIndividual IRI="#Test_SCR30T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_SCR30T1"/>
+        <NamedIndividual IRI="#Separator"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_H37T3"/>
@@ -2898,10 +2895,10 @@
         <NamedIndividual IRI="#ContentClarifier"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Checkpoint_1.4.1"/>
+        <Class IRI="#WCAGDev"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#WCAGDev"/>
+        <NamedIndividual IRI="#Checkpoint_1.4.1"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_G193T1"/>
@@ -2967,10 +2964,10 @@
         <NamedIndividual IRI="#A052_checkThElementsScope"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#ARIADev"/>
+        <AnnotationProperty IRI="#Compliance_usedFor_Reporting"/>
     </Declaration>
     <Declaration>
-        <AnnotationProperty IRI="#Compliance_usedFor_Reporting"/>
+        <Class IRI="#ARIADev"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Technique_F52"/>
@@ -3039,10 +3036,10 @@
         <Class IRI="#Grid"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Download"/>
+        <NamedIndividual IRI="#Test_G168T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G168T2"/>
+        <NamedIndividual IRI="#Download"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#SuccessCriterion_1.4.2"/>
@@ -3066,10 +3063,10 @@
         <NamedIndividual IRI="#Test_G018T4"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#SuccessCriterion_1.4.3"/>
+        <NamedIndividual IRI="#Test_F87T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_F87T2"/>
+        <NamedIndividual IRI="#SuccessCriterion_1.4.3"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Agencies"/>
@@ -3165,10 +3162,10 @@
         <NamedIndividual IRI="#Interactive"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#A001_checkForRoleAttributePresence"/>
+        <NamedIndividual IRI="#Test_F39T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_F39T2"/>
+        <NamedIndividual IRI="#A001_checkForRoleAttributePresence"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#A278_checkLayoutTablesWithCaption"/>
@@ -3231,10 +3228,10 @@
         <NamedIndividual IRI="#SuccessCriterion_3.1.2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_H81T2"/>
+        <NamedIndividual IRI="#Checkpoint_502.3.7"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Checkpoint_502.3.7"/>
+        <NamedIndividual IRI="#Test_H81T2"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Fail"/>
@@ -3252,10 +3249,10 @@
         <NamedIndividual IRI="#Test_G195T3"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G126T1"/>
+        <ObjectProperty IRI="#hasSupportedValueType"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#hasSupportedValueType"/>
+        <NamedIndividual IRI="#Test_G126T1"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Mac"/>
@@ -3285,10 +3282,10 @@
         <NamedIndividual IRI="#Test_G151T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Dystrophy"/>
+        <Class IRI="#ListItem"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#ListItem"/>
+        <NamedIndividual IRI="#Dystrophy"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_G056T5"/>
@@ -3363,10 +3360,10 @@
         <NamedIndividual IRI="#ColumnHeader"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_G019"/>
+        <NamedIndividual IRI="#Test_G183T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G183T2"/>
+        <NamedIndividual IRI="#Technique_G019"/>
     </Declaration>
     <Declaration>
         <AnnotationProperty IRI="http://www.AccessibleOntology.com/GenericOntology.owl#Test_belongsTo_Technique"/>
@@ -3417,10 +3414,10 @@
         <NamedIndividual IRI="#Test_G056T4"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_H81T3"/>
+        <NamedIndividual IRI="#Technique_F71"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_F71"/>
+        <NamedIndividual IRI="#Test_H81T3"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_T03T2"/>
@@ -3438,10 +3435,10 @@
         <NamedIndividual IRI="#Technique_G101"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_H48T1"/>
+        <NamedIndividual IRI="#Technique_C20"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_C20"/>
+        <NamedIndividual IRI="#Test_H48T1"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Technique_G017"/>
@@ -3456,19 +3453,22 @@
         <NamedIndividual IRI="#Test_G056T1"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Learning"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Test_SCR37T1"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_H93T1"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Test_T03T3"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Technique_C21"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Technique_F72"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Test_T03T3"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Technique_H90"/>
@@ -3489,10 +3489,10 @@
         <NamedIndividual IRI="#Test_H48T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Cognitive"/>
+        <NamedIndividual IRI="#Test_C08T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_C08T1"/>
+        <NamedIndividual IRI="#Cognitive"/>
     </Declaration>
     <Declaration>
         <Class IRI="#AlertDialog"/>
@@ -3588,10 +3588,10 @@
         <NamedIndividual IRI="#Test_F72T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_F60T3"/>
+        <NamedIndividual IRI="#Test_G199T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G199T2"/>
+        <NamedIndividual IRI="#Test_F60T3"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_G175T3"/>
@@ -3615,10 +3615,10 @@
         <NamedIndividual IRI="#Environment"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Directory"/>
+        <NamedIndividual IRI="#Technique_H49"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_H49"/>
+        <NamedIndividual IRI="#Directory"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_F59T1"/>
@@ -3633,19 +3633,19 @@
         <NamedIndividual IRI="#Checkpoint_2.2.1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_C21T1"/>
+        <NamedIndividual IRI="#Test_H32T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_H32T2"/>
+        <NamedIndividual IRI="#Test_C21T1"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_G061T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Form"/>
+        <NamedIndividual IRI="#Range"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Range"/>
+        <NamedIndividual IRI="#Form"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_H88T2"/>
@@ -3750,13 +3750,13 @@
         <NamedIndividual IRI="#Test_SCR33T3"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Technique_G059"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Test_G131T2"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_F03T3"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Technique_G059"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_H24T1"/>
@@ -3849,10 +3849,10 @@
         <Class IRI="#DesignTools"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_G141"/>
+        <NamedIndividual IRI="#Test_G175T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G175T2"/>
+        <NamedIndividual IRI="#Technique_G141"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Violation"/>
@@ -3894,16 +3894,16 @@
         <Class IRI="#Checkbox"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_SM11T1"/>
-    </Declaration>
-    <Declaration>
         <Class IRI="#Database"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_H56T2"/>
+        <NamedIndividual IRI="#Test_SM11T1"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Checkpoint_7.2.3"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Test_H56T2"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_F47T1"/>
@@ -3921,10 +3921,10 @@
         <NamedIndividual IRI="#Test_G081T3"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_SCR01T1"/>
+        <NamedIndividual IRI="#Compliance"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Compliance"/>
+        <NamedIndividual IRI="#Test_SCR01T1"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Technique_G057"/>
@@ -3933,10 +3933,10 @@
         <NamedIndividual IRI="#Technique_G142"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_H44T6"/>
+        <NamedIndividual IRI="#ARIA_Setsize"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#ARIA_Setsize"/>
+        <NamedIndividual IRI="#Test_H44T6"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Guideline_1.1"/>
@@ -4005,25 +4005,25 @@
         <NamedIndividual IRI="#Test_G064T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#AAT"/>
-    </Declaration>
-    <Declaration>
         <NamedIndividual IRI="#Test_G167T1"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#ARIA_Sort"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#AAT"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Technique_H88"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#RoleType"/>
+        <NamedIndividual IRI="#Technique_G140"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_H28T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_G140"/>
+        <NamedIndividual IRI="#RoleType"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Calculated"/>
@@ -4149,10 +4149,10 @@
         <Class IRI="#ContentInfo"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_G098"/>
+        <NamedIndividual IRI="#Test_G088T3"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G088T3"/>
+        <NamedIndividual IRI="#Technique_G098"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Composite"/>
@@ -4182,19 +4182,19 @@
         <NamedIndividual IRI="#Test_G143T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_C25T2"/>
-    </Declaration>
-    <Declaration>
         <NamedIndividual IRI="#Technique_H44"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#A290_checkEmbedElementsWithoutNoembedElementFollowing"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Separator"/>
+        <NamedIndividual IRI="#Test_C25T2"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Technique_G184"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Separator"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_H04T2"/>
@@ -4224,10 +4224,10 @@
         <NamedIndividual IRI="#Technique_G181"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G199T3"/>
+        <NamedIndividual IRI="#Technique_G096"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_G096"/>
+        <NamedIndividual IRI="#Test_G199T3"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Technique_H45"/>
@@ -4290,10 +4290,10 @@
         <NamedIndividual IRI="#Technique_G182"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_SM02T2"/>
+        <NamedIndividual IRI="#EmpathyMap"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#EmpathyMap"/>
+        <NamedIndividual IRI="#Test_SM02T2"/>
     </Declaration>
     <Declaration>
         <Class IRI="#ProgressBar"/>
@@ -4443,22 +4443,22 @@
         <NamedIndividual IRI="#Technique_C13"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_G093"/>
+        <NamedIndividual IRI="#AlertDialog"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Checkpoint_1.3.3"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#AlertDialog"/>
+        <NamedIndividual IRI="#Technique_G093"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#ManualTest"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_C25T4"/>
+        <NamedIndividual IRI="#Note"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Note"/>
+        <NamedIndividual IRI="#Test_C25T4"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#A283_checkWidthCssPropertyEmUnits"/>
@@ -4488,10 +4488,10 @@
         <NamedIndividual IRI="#Eclipse"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#MenuItemRadio"/>
+        <NamedIndividual IRI="#Guideline_602"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Guideline_602"/>
+        <NamedIndividual IRI="#MenuItemRadio"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_ARIA02T5"/>
@@ -4515,10 +4515,10 @@
         <NamedIndividual IRI="#Checkpoint_1.3.2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#A160_checkImagesUsedAsHyperlinksElementContent"/>
+        <NamedIndividual IRI="#Technique_G090"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_G090"/>
+        <NamedIndividual IRI="#A160_checkImagesUsedAsHyperlinksElementContent"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Disability"/>
@@ -4530,10 +4530,10 @@
         <NamedIndividual IRI="#Checkpoint_502.3.4"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_H85T1"/>
+        <NamedIndividual IRI="#ACSIssues"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#ACSIssues"/>
+        <NamedIndividual IRI="#Test_H85T1"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Slack"/>
@@ -4641,10 +4641,13 @@
         <Class IRI="#DesignGuidance"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_F67"/>
+        <NamedIndividual IRI="#User"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_SCR28T2"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Technique_F67"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Technique_H85"/>
@@ -4671,10 +4674,10 @@
         <Class IRI="#Definition"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_H73T4"/>
+        <NamedIndividual IRI="#ARIA_Readonly"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#ARIA_Readonly"/>
+        <NamedIndividual IRI="#Test_H73T4"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#ARIA_Multiline"/>
@@ -4701,10 +4704,10 @@
         <NamedIndividual IRI="#Test_F19T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_C17"/>
+        <NamedIndividual IRI="#Test_G192T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G192T1"/>
+        <NamedIndividual IRI="#Technique_C17"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_G123T5"/>
@@ -4716,10 +4719,10 @@
         <NamedIndividual IRI="#Technique_H86"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_SCR28T3"/>
+        <NamedIndividual IRI="#Test_G064T3"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G064T3"/>
+        <NamedIndividual IRI="#Test_SCR28T3"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#A265_checkEmoticonsExistance"/>
@@ -4728,10 +4731,10 @@
         <NamedIndividual IRI="#Technique_F20"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G180T4"/>
+        <NamedIndividual IRI="#Checkpoint_502.3.1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Checkpoint_502.3.1"/>
+        <NamedIndividual IRI="#Test_G180T4"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#ARIA_Test_3"/>
@@ -4755,10 +4758,10 @@
         <NamedIndividual IRI="#BlurredVision"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_ARIA02T1"/>
+        <NamedIndividual IRI="#Test_H73T3"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_H73T3"/>
+        <NamedIndividual IRI="#Test_ARIA02T1"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#A249_checkExistenceOfAnchorElementsGroupsUsingMapElements"/>
@@ -4779,10 +4782,10 @@
         <NamedIndividual IRI="#Approver"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G162T1"/>
+        <NamedIndividual IRI="#Test_G082T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G082T1"/>
+        <NamedIndividual IRI="#Test_G162T1"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_G069T3"/>
@@ -4806,10 +4809,10 @@
         <NamedIndividual IRI="#Technique_SCR18"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#A266_checkIfNavigationBarContainsLinksForEveryPageInTheSite"/>
+        <NamedIndividual IRI="#ScrollBar"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#ScrollBar"/>
+        <NamedIndividual IRI="#A266_checkIfNavigationBarContainsLinksForEveryPageInTheSite"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_G082T2"/>
@@ -4851,10 +4854,10 @@
         <NamedIndividual IRI="#Swift"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G174T1"/>
+        <NamedIndividual IRI="#ARIA_ValueText"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#ARIA_ValueText"/>
+        <NamedIndividual IRI="#Test_G174T1"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_G162T3"/>
@@ -4983,10 +4986,10 @@
         <NamedIndividual IRI="#Checkpoint_504.3"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Application"/>
+        <NamedIndividual IRI="#A292_checkNonTextContentAltAttributePresence"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#A292_checkNonTextContentAltAttributePresence"/>
+        <Class IRI="#Application"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Properties"/>
@@ -5040,16 +5043,16 @@
         <NamedIndividual IRI="#Test_G105T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#A260_checkDataTablesWithoutSummaryAttr"/>
-    </Declaration>
-    <Declaration>
         <NamedIndividual IRI="#Test_G105T3"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_G008"/>
+        <NamedIndividual IRI="#A260_checkDataTablesWithoutSummaryAttr"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Forums"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Technique_G008"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Checkpoint_504.2"/>
@@ -5064,10 +5067,10 @@
         <NamedIndividual IRI="#Test_F16T4"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_F83"/>
+        <NamedIndividual IRI="#Test_C19T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_C19T1"/>
+        <NamedIndividual IRI="#Technique_F83"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_G194T2"/>
@@ -5106,19 +5109,19 @@
         <AnnotationProperty IRI="http://www.AccessibleOntology.com/GenericOntology.owl#isRequiredInExpectedResults"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#MAGic"/>
+        <NamedIndividual IRI="#Technique_G138"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_G138"/>
+        <NamedIndividual IRI="#MAGic"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Technique_G005"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Test_Step3"/>
+        <NamedIndividual IRI="#VoiceOver"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#VoiceOver"/>
+        <Class IRI="#Test_Step3"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Region"/>
@@ -5193,16 +5196,16 @@
         <NamedIndividual IRI="#Policy"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G142T1"/>
-    </Declaration>
-    <Declaration>
         <NamedIndividual IRI="#A287_checkKeyboardExtraRedundantInputMechanisms"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_H43T2"/>
+        <NamedIndividual IRI="#Test_G142T1"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Web"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Test_H43T2"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#A015_checkAppletsAlt"/>
@@ -5256,10 +5259,10 @@
         <NamedIndividual IRI="#Implement"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_F12T3"/>
+        <NamedIndividual IRI="#Test_G117T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G117T1"/>
+        <NamedIndividual IRI="#Test_F12T3"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Public"/>
@@ -5280,10 +5283,10 @@
         <NamedIndividual IRI="#Technique_G134"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_G001"/>
+        <NamedIndividual IRI="#Tristate"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Tristate"/>
+        <NamedIndividual IRI="#Technique_G001"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#ARIA_Atomic"/>
@@ -5415,19 +5418,19 @@
         <NamedIndividual IRI="#Status"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#FocalPoint"/>
+        <NamedIndividual IRI="#Test_G069T6"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G069T6"/>
+        <NamedIndividual IRI="#FocalPoint"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Checkpoint_7.3"/>
     </Declaration>
     <Declaration>
-        <AnnotationProperty IRI="http://www.AccessibleOntology.com/GenericOntology.owl#hasCategory"/>
+        <NamedIndividual IRI="#Test_F81T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_F81T1"/>
+        <AnnotationProperty IRI="http://www.AccessibleOntology.com/GenericOntology.owl#hasCategory"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_G186T3"/>
@@ -5472,10 +5475,10 @@
         <NamedIndividual IRI="#Test_F36T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_H79T1"/>
+        <NamedIndividual IRI="#Test_G130T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G130T2"/>
+        <NamedIndividual IRI="#Test_H79T1"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#A229_checkNotSpecifyingColor"/>
@@ -5544,10 +5547,10 @@
         <NamedIndividual IRI="#Technique_F34"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_C24T1"/>
+        <NamedIndividual IRI="#Technique_G176"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_G176"/>
+        <NamedIndividual IRI="#Test_C24T1"/>
     </Declaration>
     <Declaration>
         <Class IRI="http://www.AccessibleOntology.com/GenericOntology.owl#ARIATechnique"/>
@@ -5613,16 +5616,16 @@
         <NamedIndividual IRI="#Test_C12T1"/>
     </Declaration>
     <Declaration>
-        <ObjectProperty IRI="#hasInheritedProperty"/>
-    </Declaration>
-    <Declaration>
         <NamedIndividual IRI="#Test_SCR19T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_F36"/>
+        <ObjectProperty IRI="#hasInheritedProperty"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Technique_G174"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Technique_F36"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Technique_H54"/>
@@ -5679,10 +5682,10 @@
         <Class IRI="#Radio"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G004T3"/>
+        <NamedIndividual IRI="#Technique_F38"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_F38"/>
+        <NamedIndividual IRI="#Test_G004T3"/>
     </Declaration>
     <Declaration>
         <AnnotationProperty IRI="http://www.AccessibleOntology.com/GenericOntology.owl#Checkpoint_has_Approach"/>
@@ -5757,10 +5760,10 @@
         <NamedIndividual IRI="#Test_SCR20T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Tab"/>
+        <NamedIndividual IRI="#Test_G089T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G089T2"/>
+        <NamedIndividual IRI="#Tab"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Wheelchair"/>
@@ -5832,16 +5835,16 @@
         <NamedIndividual IRI="#Test_G110T3"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_SM13T2"/>
-    </Declaration>
-    <Declaration>
         <NamedIndividual IRI="#Test_SCR32T1"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_H91"/>
+        <NamedIndividual IRI="#Test_SM13T2"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#PDF"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Technique_H91"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Technique_C22"/>
@@ -5877,10 +5880,10 @@
         <NamedIndividual IRI="#Gridcell"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_H60T3"/>
+        <NamedIndividual IRI="#Technique_SM14"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Technique_SM14"/>
+        <NamedIndividual IRI="#Test_H60T3"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#ARIA_ActiveDescendant"/>
@@ -5889,10 +5892,10 @@
         <NamedIndividual IRI="#Technique_F73"/>
     </Declaration>
     <Declaration>
-        <AnnotationProperty IRI="http://www.AccessibleOntology.com/GenericOntology.owl#Test_has_Approach"/>
+        <NamedIndividual IRI="#Internal"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Internal"/>
+        <AnnotationProperty IRI="http://www.AccessibleOntology.com/GenericOntology.owl#Test_has_Approach"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#A279_checkNonDataTablesSummaryAttr"/>
@@ -6030,13 +6033,13 @@
         <NamedIndividual IRI="#Row"/>
     </Declaration>
     <Declaration>
+        <NamedIndividual IRI="#Main"/>
+    </Declaration>
+    <Declaration>
         <NamedIndividual IRI="#Install"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Technique_F76"/>
-    </Declaration>
-    <Declaration>
-        <NamedIndividual IRI="#Main"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Technique_H94"/>
@@ -6084,10 +6087,10 @@
         <NamedIndividual IRI="#Technique_C26"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G102T2"/>
+        <Class IRI="#SectionHead"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#SectionHead"/>
+        <NamedIndividual IRI="#Test_G102T2"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Test_SCR27T3"/>
@@ -6138,10 +6141,10 @@
         <NamedIndividual IRI="#Technique_F78"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_SCR27T4"/>
+        <NamedIndividual IRI="#Test_G065T2"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G065T2"/>
+        <NamedIndividual IRI="#Test_SCR27T4"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Checkpoint_3.1.2"/>
@@ -6195,16 +6198,16 @@
         <NamedIndividual IRI="#Test_G191T3"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G146T2"/>
-    </Declaration>
-    <Declaration>
         <NamedIndividual IRI="#Checkpoint_1.2.3"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Test_G008T2"/>
+        <NamedIndividual IRI="#Test_G146T2"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Technique_C28"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Test_G008T2"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Technique_F79"/>
@@ -6225,10 +6228,10 @@
         <NamedIndividual IRI="#Technique_F31"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#ComboBox"/>
+        <NamedIndividual IRI="#Function"/>
     </Declaration>
     <Declaration>
-        <NamedIndividual IRI="#Function"/>
+        <NamedIndividual IRI="#ComboBox"/>
     </Declaration>
     <Declaration>
         <NamedIndividual IRI="#Technique_SM12"/>
@@ -6492,6 +6495,10 @@
         <Class IRI="http://www.AccessibleOntology.com/WAIARIA.owl#ARIARoles"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#Learning"/>
+        <Class IRI="#General"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#Link"/>
         <Class IRI="http://www.AccessibleOntology.com/WAIARIA.owl#ARIARoles"/>
     </SubClassOf>
@@ -6710,10 +6717,6 @@
     <SubClassOf>
         <Class IRI="#ToolTip"/>
         <Class IRI="http://www.AccessibleOntology.com/WAIARIA.owl#ARIARoles"/>
-    </SubClassOf>
-    <SubClassOf>
-        <Class IRI="#Training"/>
-        <Class IRI="#General"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#Tree"/>
@@ -7585,7 +7588,7 @@
         <NamedIndividual IRI="#Automation"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#Training"/>
+        <Class IRI="#Learning"/>
         <NamedIndividual IRI="#Badge"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -8233,7 +8236,7 @@
         <NamedIndividual IRI="#Editor"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#Training"/>
+        <Class IRI="#Learning"/>
         <NamedIndividual IRI="#Education"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -8489,6 +8492,10 @@
         <NamedIndividual IRI="#Guideline_NonWeb"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Guidelines"/>
+        <NamedIndividual IRI="#Guideline_Video"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#Disability"/>
         <NamedIndividual IRI="#HardOfHearing"/>
     </ClassAssertion>
@@ -8605,7 +8612,7 @@
         <NamedIndividual IRI="#Interactive"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#Training"/>
+        <Class IRI="#Learning"/>
         <NamedIndividual IRI="#Interactive"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -8913,15 +8920,15 @@
         <NamedIndividual IRI="#Overview"/>
     </ClassAssertion>
     <ClassAssertion>
+        <Class IRI="#Learning"/>
+        <NamedIndividual IRI="#Overview"/>
+    </ClassAssertion>
+    <ClassAssertion>
         <Class IRI="#Requirements"/>
         <NamedIndividual IRI="#Overview"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Standards"/>
-        <NamedIndividual IRI="#Overview"/>
-    </ClassAssertion>
-    <ClassAssertion>
-        <Class IRI="#Training"/>
         <NamedIndividual IRI="#Overview"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -9061,7 +9068,7 @@
         <NamedIndividual IRI="#Record"/>
     </ClassAssertion>
     <ClassAssertion>
-        <Class IRI="#Training"/>
+        <Class IRI="#Learning"/>
         <NamedIndividual IRI="#Recorded"/>
     </ClassAssertion>
     <ClassAssertion>
@@ -14563,6 +14570,22 @@
     <ClassAssertion>
         <Class IRI="#DevTools"/>
         <NamedIndividual IRI="#Unsupported"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="http://www.AccessibleOntology.com/GenericOntology.owl#Test"/>
+        <NamedIndividual IRI="#User"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Design"/>
+        <NamedIndividual IRI="#User"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Disability"/>
+        <NamedIndividual IRI="#User"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Support"/>
+        <NamedIndividual IRI="#User"/>
     </ClassAssertion>
     <ClassAssertion>
         <Class IRI="#Database"/>
@@ -39876,6 +39899,16 @@
         <AnnotationProperty IRI="http://www.AccessibleOntology.com/GenericOntology.owl#hasName"/>
         <IRI>#Keyboard</IRI>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Keyboard used for accessibility testing</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.AccessibleOntology.com/GenericOntology.owl#hasDescription"/>
+        <IRI>#Learning</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Accessibility training</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.AccessibleOntology.com/GenericOntology.owl#hasName"/>
+        <IRI>#Learning</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Training</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.AccessibleOntology.com/GenericOntology.owl#hasName"/>
@@ -67628,16 +67661,6 @@
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Track</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.AccessibleOntology.com/GenericOntology.owl#hasDescription"/>
-        <IRI>#Training</IRI>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Accessibility training</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
-        <AnnotationProperty IRI="http://www.AccessibleOntology.com/GenericOntology.owl#hasName"/>
-        <IRI>#Training</IRI>
-        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Training</Literal>
-    </AnnotationAssertion>
-    <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.AccessibleOntology.com/GenericOntology.owl#hasName"/>
         <IRI>#Travis_CI</IRI>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Travis CI</Literal>
@@ -67651,6 +67674,16 @@
         <AnnotationProperty IRI="http://www.AccessibleOntology.com/GenericOntology.owl#hasName"/>
         <IRI>#Unsupported</IRI>
         <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Unsupported</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.AccessibleOntology.com/GenericOntology.owl#hasDescription"/>
+        <IRI>#User</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">a person who uses or operates a computer or device</Literal>
+    </AnnotationAssertion>
+    <AnnotationAssertion>
+        <AnnotationProperty IRI="http://www.AccessibleOntology.com/GenericOntology.owl#hasName"/>
+        <IRI>#User</IRI>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">User</Literal>
     </AnnotationAssertion>
     <AnnotationAssertion>
         <AnnotationProperty IRI="http://www.AccessibleOntology.com/GenericOntology.owl#hasName"/>
